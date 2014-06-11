@@ -12,5 +12,13 @@
         "run-tests.html",
         "test"
     ],
-    "bundle": [ "ui/main.reel" ]
+    "bundle": [
+        "ui/main.reel"
+    ],
+    "author": {
+        "name": "Larry Staton Jr.",
+        "email": "larry@sweetpeasoftware.com",
+        "url": ""
+    },
+    "license": "MIT"
 }
